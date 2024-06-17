@@ -1,0 +1,18 @@
+names:
+- Backpack
+- backpack
+- bag
+- briefcase
+- handbag
+- person
+- suitcase
+nc: 7
+roboflow:
+  license: CC BY 4.0
+  project: personbag-ubzhk
+  url: https://universe.roboflow.com/library-5kdvi/personbag-ubzhk/dataset/3
+  version: 3
+  workspace: library-5kdvi
+test: ../test/images
+train: PersonBag-3/train/images
+val: PersonBag-3/valid/images
